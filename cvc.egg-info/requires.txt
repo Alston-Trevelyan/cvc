@@ -1,0 +1,6 @@
+moviepy
+numpy
+pillow
+click
+requests
+imageio-ffmpeg

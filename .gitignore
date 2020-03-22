@@ -1,0 +1,8 @@
+.idea
+cvc/
+cvc-egg.info/
+doc/
+dist/
+LICENSE
+.travis.yml
+setup.py
